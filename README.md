@@ -27,7 +27,7 @@
 
 <img src="https://img.shields.io/badge/HTML-grey?logo=html&logoColor=f5f5f5"/>
 
-<img src="https://img.shields.io/badge/Boostrap-grey?logo=bootstrap&logoColor=f5f5f5"/>
+<img src="https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap&logoColor=f5f5f5"/>
 </p>
 
 ***
