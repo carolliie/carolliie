@@ -1,4 +1,4 @@
-<h1 align="center">hi!<img src="https://i.giphy.com/gUNA7QH4AeLde.webp" height="30"/></h1>
+<h1 align="center">hi!</h1>
 
 <p align="center">i am Carol, a computer science student and a beginner </br> web/software developer from Brazil, 🇧🇷.</p>
 
