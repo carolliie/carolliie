@@ -1,6 +1,6 @@
 <h1 align="center">hi! <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" height="54"/></h1>
 
-<p align="center">i am Carol, a computer science student and a beginner web/software developer.</p>
+<p align="center">i am Carol, a computer science student and a beginner </br> web/software developer.</p>
 
 ***
 
