@@ -22,6 +22,8 @@
 
 <img src="https://img.shields.io/badge/html-purple?style=for-the-badge&logo=html&logoColor=white">
 
+</br>
+
 <img src="https://img.shields.io/badge/wordpress-purple?style=for-the-badge&logo=wordpress&logoColor=white">
 
 <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white">
