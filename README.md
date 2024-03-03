@@ -19,6 +19,8 @@
 
 <img src="https://img.shields.io/badge/Git-grey?logo=git&logoColor=f5f5f5"/>
 
+</br>
+
 <img src="https://img.shields.io/badge/Github-grey?logo=github&logoColor=f5f5f5"/>
 
 <img src="https://img.shields.io/badge/WordPress-grey?logo=wordpress&logoColor=f5f5f5"/>
@@ -33,8 +35,9 @@
 ### <p align="center">contact</p>
 
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-grey?logo=linkedin&logoColor=f5f5f5"/></a>
+<a href="https://www.linkedin.com/in/ana-caroline-vieira-526374274/"><img src="https://img.shields.io/badge/LinkedIn-grey?logo=linkedin&logoColor=f5f5f5"/></a>
 
+</br>
 </br>
 </br>
 
