@@ -33,7 +33,7 @@
 ***
 
 ### <p align="center">contact</p>
-
+</br>
 <p align="center">
 <a href="https://www.linkedin.com/in/ana-caroline-vieira-526374274/"><img src="https://img.shields.io/badge/LinkedIn-grey?logo=linkedin&logoColor=f5f5f5"/></a>
 
