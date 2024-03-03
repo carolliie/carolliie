@@ -35,5 +35,11 @@
 
 <p align="center">
 <a href="mailto:anacvieira1415@gmail.com"><img align="center" src="https://img.shields.io/badge/gmail-purple?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+</br>
+</br>
+</br>
+
+<img src="https://i.pinimg.com/originals/c7/2d/14/c72d14aeeb05acf7eefc46c3035b471d.gif" height="155" width="1000"/>
 </p>
 
