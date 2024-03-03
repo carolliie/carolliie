@@ -2,8 +2,6 @@
 
 <p align="center">i am Carol, a computer science student and a beginner </br> web/software developer from Brazil, 🇧🇷.</p>
 
-***
-
 ### <p align="center">programming languages + skills</p>
 </br>
 <p align="center">
