@@ -2,8 +2,10 @@
 
 <p align="center">i am Carol, a computer science student and a beginner </br> web/software developer from Brazil, 🇧🇷.</p>
 
-### <p align="center">programming languages + skills</p>
 </br>
+
+### <p align="center">programming languages + skills</p>
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/javascript-purple?style=for-the-badge&logo=javascript&logoColor=white">
@@ -25,8 +27,9 @@
 <img src="https://img.shields.io/badge/wordpress-purple?style=for-the-badge&logo=wordpress&logoColor=white">
 
 <img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white">
-
 </p>
+
+</br>
 
 <h3 align="center">contact me!</h3>
 
