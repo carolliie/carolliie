@@ -11,11 +11,11 @@
 
 <img src="https://img.shields.io/badge/React-grey?logo=react&logoColor=f5f5f5"/>
 
-<img src="https://img.shields.io/badge/Python-grey?logo=python&logoColor=f5f5f5"/>
-
 <img src="https://img.shields.io/badge/PhP-grey?logo=php&logoColor=f5f5f5"/>
 
 <img src="https://img.shields.io/badge/PostgreSQL-grey?logo=postgresql&logoColor=f5f5f5"/>
+
+<img src="https://img.shields.io/badge/HTML-grey?logo=html&logoColor=f5f5f5"/>
 
 <img src="https://img.shields.io/badge/Git-grey?logo=git&logoColor=f5f5f5"/>
 
@@ -24,8 +24,6 @@
 <img src="https://img.shields.io/badge/Github-grey?logo=github&logoColor=f5f5f5"/>
 
 <img src="https://img.shields.io/badge/WordPress-grey?logo=wordpress&logoColor=f5f5f5"/>
-
-<img src="https://img.shields.io/badge/HTML-grey?logo=html&logoColor=f5f5f5"/>
 
 <img src="https://img.shields.io/badge/Bootstrap-grey?logo=bootstrap&logoColor=f5f5f5"/>
 </p>
