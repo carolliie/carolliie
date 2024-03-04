@@ -4,9 +4,13 @@
 
 </br>
 
-### <p align="center">programming languages + skills</p>
+<div>
+<img align="right" src="https://i.pinimg.com/originals/ed/98/a0/ed98a01d1e5f3edae97a7b30fb950d0c.gif" height="190"/>
+</div>
 
-<p align="center">
+### <p align="left">programming languages + skills</p>
+
+<p align="left">
 
 <img src="https://img.shields.io/badge/javascript-purple?style=for-the-badge&logo=javascript&logoColor=white">
 
@@ -16,13 +20,11 @@
 
 <img src="https://img.shields.io/badge/postgresQL-purple?style=for-the-badge&logo=postgresql&logoColor=white">
 
-
 <img src="https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white">
 
+</br>
 
 <img src="https://img.shields.io/badge/html-purple?style=for-the-badge&logo=html&logoColor=white">
-
-</br>
 
 <img src="https://img.shields.io/badge/wordpress-purple?style=for-the-badge&logo=wordpress&logoColor=white">
 
@@ -40,6 +42,6 @@
 </br>
 </br>
 
-<img src="https://i.pinimg.com/originals/c7/2d/14/c72d14aeeb05acf7eefc46c3035b471d.gif" height="155" width="1000"/>
+
 </p>
 
