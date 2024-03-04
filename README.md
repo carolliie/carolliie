@@ -8,6 +8,8 @@
 <img align="right" src="https://i.pinimg.com/originals/ed/98/a0/ed98a01d1e5f3edae97a7b30fb950d0c.gif" height="190"/>
 </div>
 
+</br>
+
 ### <p align="left">programming languages + skills</p>
 
 <p align="left">
@@ -33,15 +35,10 @@
 
 </br>
 
+<div>
 <h3 align="center">contact me!</h3>
-
 <p align="center">
-<a href="mailto:anacvieira1415@gmail.com"><img align="center" src="https://img.shields.io/badge/gmail-purple?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:anacvieira1415@gmail.com"><img src="https://img.shields.io/badge/gmail-purple?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<div>
 
-</br>
-</br>
-</br>
-
-
-</p>
 
