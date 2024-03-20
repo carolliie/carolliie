@@ -20,13 +20,15 @@
 
 <img src="https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white">
 
+<img src="https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white">
+
 <img src="https://img.shields.io/badge/postgresQL-purple?style=for-the-badge&logo=postgresql&logoColor=white">
 
 <img src="https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white">
 
 </br>
 
-<img src="https://img.shields.io/badge/html-purple?style=for-the-badge&logo=html&logoColor=white">
+<img src="https://img.shields.io/badge/html-purple?style=for-the-badge&logo=HTML5&logoColor=white">
 
 <img src="https://img.shields.io/badge/wordpress-purple?style=for-the-badge&logo=wordpress&logoColor=white">
 
