@@ -16,11 +16,11 @@
 
 <img src="https://img.shields.io/badge/javascript-purple?style=for-the-badge&logo=javascript&logoColor=white">
 
-<img src="https://img.shields.io/badge/react-purple?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/angular-purple?style=for-the-badge&logo=angular&logoColor=white">
 
-<img src="https://img.shields.io/badge/php-purple?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/java-purple?style=for-the-badge&logo=java&logoColor=white">
 
-<img src="https://img.shields.io/badge/kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-purple?style=for-the-badge&logo=springboot&logoColor=white">
 
 <img src="https://img.shields.io/badge/postgresQL-purple?style=for-the-badge&logo=postgresql&logoColor=white">
 
@@ -32,7 +32,7 @@
 
 <img src="https://img.shields.io/badge/wordpress-purple?style=for-the-badge&logo=wordpress&logoColor=white">
 
-<img src="https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/tailwind-purple?style=for-the-badge&logo=tailwind&logoColor=white">
 </p>
 
 </br>
@@ -40,7 +40,7 @@
 <div>
 <h3 align="center">contact me!</h3>
 <p align="center">
-<a href="mailto:anacvieira1415@gmail.com"><img src="https://img.shields.io/badge/gmail-purple?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ana-caroline-vieira-526374274"><img src="https://img.shields.io/badge/linkedin-purple?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <div>
 
 
