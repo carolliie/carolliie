@@ -32,7 +32,7 @@
 
 <img src="https://img.shields.io/badge/wordpress-purple?style=for-the-badge&logo=wordpress&logoColor=white">
 
-<img src="https://img.shields.io/badge/tailwind-purple?style=for-the-badge&logo=tailwind&logoColor=white">
+<img src="https://img.shields.io/badge/tailwind-purple?style=for-the-badge&logo=tailwindCSS&logoColor=white">
 </p>
 
 </br>
