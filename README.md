@@ -14,7 +14,7 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/javascript-purple?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-purple?style=for-the-badge&logo=typescript&logoColor=white">
 
 <img src="https://img.shields.io/badge/angular-purple?style=for-the-badge&logo=angular&logoColor=white">
 
