@@ -1,6 +1,6 @@
 <h1 align="center">hi!</h1>
 
-<p align="center">i am Carol, a computer science student and a beginner </br> web/software developer from Brazil, 🇧🇷.</p>
+<p align="center">i am Carol, a computer science student and a beginner </br> software developer from Brazil, 🇧🇷.</p>
 
 </br>
 
