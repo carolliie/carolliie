@@ -1,6 +1,6 @@
 <h1 align="center">hi!</h1>
 
-<p align="center">i am Carol, a computer science student and a beginner </br> software developer from Brazil, 🇧🇷.</p>
+<p align="center">i am Carol, a computer science student and a </br> software developer from Brazil, 🇧🇷.</p>
 
 </br>
 
@@ -16,7 +16,7 @@
 
 <img src="https://img.shields.io/badge/typescript-purple?style=for-the-badge&logo=typescript&logoColor=white">
 
-<img src="https://img.shields.io/badge/angular-purple?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/nextjs-purple?style=for-the-badge&logo=nextjs&logoColor=white">
 
 <img src="https://img.shields.io/badge/java-purple?style=for-the-badge&logo=java&logoColor=white">
 
