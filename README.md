@@ -38,7 +38,7 @@
 <div>
 <h3 align="center">contact me!</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ana-caroline-vieira-526374274"><img src="https://img.shields.io/badge/linkedin-purple?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/carolliie"><img src="https://img.shields.io/badge/linkedin-purple?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <div>
 
 
