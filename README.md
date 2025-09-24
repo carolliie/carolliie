@@ -5,7 +5,7 @@
 </br>
 
 <div>
-<img align="right" src="https://i.pinimg.com/originals/ed/98/a0/ed98a01d1e5f3edae97a7b30fb950d0c.gif" height="190"/>
+<img align="right" src="https://i.pinimg.com/originals/58/48/91/5848912f04e7d2a1886d97bf369beaf3.gif" height="190"/>
 </div>
 
 </br>
@@ -14,23 +14,23 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/typescript-purple?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-pink?style=for-the-badge&logo=typescript&logoColor=white">
 
-<img src="https://img.shields.io/badge/nextjs-purple?style=for-the-badge&logo=nextjs&logoColor=white">
+<img src="https://img.shields.io/badge/nextjs-pink?style=for-the-badge&logo=nextjs&logoColor=white">
 
-<img src="https://img.shields.io/badge/java-purple?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/java-pink?style=for-the-badge&logo=java&logoColor=white">
 
-<img src="https://img.shields.io/badge/springboot-purple?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-pink?style=for-the-badge&logo=springboot&logoColor=white">
 
-<img src="https://img.shields.io/badge/postgresQL-purple?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/postgresQL-pink?style=for-the-badge&logo=postgresql&logoColor=white">
 
-<img src="https://img.shields.io/badge/git-purple?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/git-pink?style=for-the-badge&logo=git&logoColor=white">
 
-<img src="https://img.shields.io/badge/html-purple?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/html-pink?style=for-the-badge&logo=HTML5&logoColor=white">
 
-<img src="https://img.shields.io/badge/wordpress-purple?style=for-the-badge&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/wordpress-pink?style=for-the-badge&logo=wordpress&logoColor=white">
 
-<img src="https://img.shields.io/badge/tailwind-purple?style=for-the-badge&logo=tailwindCSS&logoColor=white">
+<img src="https://img.shields.io/badge/tailwind-pink?style=for-the-badge&logo=tailwindCSS&logoColor=white">
 </p>
 
 </br>
