@@ -14,23 +14,23 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/typescript-pink?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-pink?style=for-the-badge&logo=typescript&logoColor=black">
 
-<img src="https://img.shields.io/badge/nextjs-pink?style=for-the-badge&logo=nextjs&logoColor=white">
+<img src="https://img.shields.io/badge/nextjs-pink?style=for-the-badge&logo=nextjs&logoColor=black">
 
-<img src="https://img.shields.io/badge/java-pink?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/java-pink?style=for-the-badge&logo=java&logoColor=black">
 
-<img src="https://img.shields.io/badge/springboot-pink?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-pink?style=for-the-badge&logo=springboot&logoColor=black">
 
-<img src="https://img.shields.io/badge/postgresQL-pink?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/postgresQL-pink?style=for-the-badge&logo=postgresql&logoColor=black">
 
-<img src="https://img.shields.io/badge/git-pink?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/git-pink?style=for-the-badge&logo=git&logoColor=black">
 
-<img src="https://img.shields.io/badge/html-pink?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/html-pink?style=for-the-badge&logo=HTML5&logoColor=black">
 
-<img src="https://img.shields.io/badge/wordpress-pink?style=for-the-badge&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/wordpress-pink?style=for-the-badge&logo=wordpress&logoColor=black">
 
-<img src="https://img.shields.io/badge/tailwind-pink?style=for-the-badge&logo=tailwindCSS&logoColor=white">
+<img src="https://img.shields.io/badge/tailwind-pink?style=for-the-badge&logo=tailwindCSS&logoColor=black">
 </p>
 
 </br>
@@ -38,7 +38,7 @@
 <div>
 <h3 align="center">contact me!</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/carolliie"><img src="https://img.shields.io/badge/linkedin-purple?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/carolliie"><img src="https://img.shields.io/badge/linkedin-pink?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
 <div>
 
 
