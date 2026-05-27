@@ -1,7 +1,7 @@
 <div align="center">
   <img 
     src="https://i.pinimg.com/originals/6d/8f/42/6d8f4254e8f50c2d45a81d9335a2906c.gif"
-    style="width:100%; max-height:420px; object-fit:cover; object-position:bottom;"
+    style="width:100%; max-height:100%; object-fit:cover; object-position:bottom;"
   />
 </div>
 
@@ -17,8 +17,6 @@
   from Brazil, 🇧🇷 passionate about building creative, scalable and user-focused experiences.
 </p>
 
-<br/>
-
 <h3 align="center">programming languages</h3>
 
 <p align="center">
@@ -26,8 +24,6 @@
   <img src="https://img.shields.io/badge/java-F8D8A8?logo=openjdk&logoColor=2D1B2F"/>
   <img src="https://img.shields.io/badge/html5-F7C59F?logo=html5&logoColor=2D1B2F"/>
 </p>
-
-<br/>
 
 <h3 align="center">frameworks + databases</h3>
 
@@ -39,8 +35,6 @@
   <img src="https://img.shields.io/badge/mongodb-CFE8C6?logo=mongodb&logoColor=2D1B2F"/>
   <img src="https://img.shields.io/badge/redis-F6B6A8?logo=redis&logoColor=2D1B2F"/>
 </p>
-
-<br/>
 
 <h3 align="center">tools + technologies</h3>
 
@@ -54,8 +48,6 @@
   <img src="https://img.shields.io/badge/intellij-F3B6C6?logo=intellijidea&logoColor=2D1B2F"/>
   <img src="https://img.shields.io/badge/claude_code-F8E8A6?logo=anthropic&logoColor=2D1B2F"/>
 </p>
-
-<br/>
 
 <h3 align="center">contact me!</h3>
 
