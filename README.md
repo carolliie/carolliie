@@ -1,6 +1,8 @@
 <div align="center">
   <img 
-    src="https://i.pinimg.com/originals/6d/8f/42/6d8f4254e8f50c2d45a81d9335a2906c.gif" width="100%"/>
+    src="https://i.pinimg.com/originals/6d/8f/42/6d8f4254e8f50c2d45a81d9335a2906c.gif"
+    style="width:100%; height:320px; object-fit:cover; object-position:bottom;"
+  />
 </div>
 
 <h1 align="center">
