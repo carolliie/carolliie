@@ -58,6 +58,9 @@
   <a href="mailto:anacvieira1415@gmail.com">
     <img src="https://img.shields.io/badge/email-D6C6E1?logo=gmail&logoColor=2D1B2F"/>
   </a>
+  <a href="https://carollie.netlify.app">
+    <img src="https://img.shields.io/badge/portfolio-BFA2DB?logo=internet&logoColor=2D1B2F"/>
+  </a>
 </p>
 
 <div align="center">
