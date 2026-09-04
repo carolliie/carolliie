@@ -13,8 +13,9 @@
 </h1>
 
 <p align="center">
-  i’m Caroline, a computer science student and software developer <br/>
+  I’m Caroline, a computer science student and software developer <br/>
   from Brazil, 🇧🇷 passionate about building creative, scalable and user-focused experiences.
+  With nearly 3 years of experience, I've delivered 20+ applications that have helped businesses across different industries, from e-commerce companies to Internet Service Providers (ISPs).
 </p>
 
 <h3 align="center">programming languages</h3>
